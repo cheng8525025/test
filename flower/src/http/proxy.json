@@ -1,0 +1,6 @@
+[{
+		"proxyUrl":"/vascloud-ui/vascloud",
+		"targetApi":"http://29.2.225.203:8082/vascloud-ui/vascloud/",
+		"marks":"该文件用于开发环境http请求跨域信息,具体配置查看config的index.js",
+		"protocal":"http://"
+}]
